@@ -1,7 +1,7 @@
 # FrameHarvestPro: Harvesting Quality Frames from Videos
 Welcome to FrameHarvestPro, your go-to solution for extracting high-quality frames/pictures from any video.
 
-## The Challenge
+### The Challenge
 Have you ever wanted to capture specific moments or all frames from a video, but struggled to find a tool that meets your needs? FrameHarvestPro is designed to address this common challenge.
 
 ## How It Works
