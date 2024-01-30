@@ -24,10 +24,10 @@ RAM: Minimum 2 GB
 Installation Steps
 Download the Installer:
 
-Visit our official website: https://vickkie.github.io/frameharvestpro
-Navigate to the "Downloads" section.
-Download the latest version of FrameHarvestPro.
-Run the Installer:
+(i) Visit our official website: https://vickkie.github.io/frameharvestpro
+    Navigate to the "Downloads" section.
+    Download the latest version of FrameHarvestPro.
+    Run the Installer:
 
 Locate the downloaded installer file (e.g., FrameHarvestProInstaller.exe).
 Double-click the installer to run it.
