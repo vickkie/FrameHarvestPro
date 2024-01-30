@@ -10,5 +10,6 @@ High quality Frame extracting program
 
 Brought to you by &copy;Trakexcel Agency
 
-
 Author: Uzitrake 2024
+
+# Install Instructions
