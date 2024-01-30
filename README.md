@@ -1,27 +1,27 @@
 # FrameHarvestPro: Harvesting Quality Frames from Videos
 Welcome to FrameHarvestPro, your go-to solution for extracting high-quality frames/pictures from any video.
 
-The Challenge
+## The Challenge
 Have you ever wanted to capture specific moments or all frames from a video, but struggled to find a tool that meets your needs? FrameHarvestPro is designed to address this common challenge.
 
-How It Works
+## How It Works
 FrameHarvestPro empowers you to extract frames from videos with precision. Whether you want to capture the entire video or specific segments, our program gives you the flexibility to choose the output quality, format, and extraction parameters.
 
-Key Features
+##Key Features
 Precision Extraction: Capture frames with precision, ensuring you get exactly what you need.
 
 Quality Settings: Choose the output quality that meets your standards.
 
 Customized Output: Specify the type of frames you want to extract, tailoring the output to your requirements.
 
-Why FrameHarvestPro?
+## Why FrameHarvestPro?
 Ease of Use: A user-friendly interface makes frame extraction simple and efficient.
 
 High Quality: Enjoy crisp and clear frames for your projects or memories.
 
 Flexibility: Extract frames on your terms, whether for creative projects or analysis.
 
-Get Started
+##Get Started
 Download: Visit https://vickkie.github.io/frameharvestpro to download FrameHarvestPro.
 
 Install: Run the installer and follow the setup wizard.
