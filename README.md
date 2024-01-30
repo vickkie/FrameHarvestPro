@@ -29,40 +29,42 @@ Download the Installer:
     Download the latest version of FrameHarvestPro.
     Run the Installer:
 
-Locate the downloaded installer file (e.g., FrameHarvestProInstaller.exe).
+2) Locate the downloaded installer file (e.g., FrameHarvestProInstaller.exe).
 Double-click the installer to run it.
 Follow the Setup Wizard:
 
-The setup wizard will guide you through the installation process.
+3) The setup wizard will guide you through the installation process.
 Click "Next" to proceed.
 Review License Agreement:
 
-Read and accept the license agreement.
+4) Read and accept the license agreement.
 Click "Next" to continue.
 Select Installation Location:
 
-Choose the destination folder for FrameHarvestPro installation.
+5) Choose the destination folder for FrameHarvestPro installation.
 Click "Next" to proceed.
 Create Desktop Shortcut:
 
-Choose whether to create a desktop shortcut.
+6) Choose whether to create a desktop shortcut.
 Click "Next" to continue.
 Ready to Install:
 
-Review the installation settings.
+7) Review the installation settings.
 Click "Install" to start the installation process.
 Installation Complete:
 
-Once the installation is complete, click "Finish."
+8) Once the installation is complete, click "Finish."
 Getting Started
 Launch FrameHarvestPro:
 
-Double-click the FrameHarvestPro icon on your desktop.
+9) Double-click the FrameHarvestPro icon on your desktop.
 Or, find it in your Start Menu.
 Explore Features:
 
-Follow the on-screen instructions to convert videos to frames.
+10) Follow the on-screen instructions to convert videos to frames.
 Refer to the built-in help or visit our website for tutorials.
+
+
 Need Help?
 If you encounter any issues during installation or have questions about using FrameHarvestPro, please refer to the documentation provided or contact our support team.
 
