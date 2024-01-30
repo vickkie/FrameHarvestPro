@@ -9,4 +9,6 @@ This programs enabes you to pick the quality,type of output and what to extract 
 High quality Frame extracting program 
 
 Brought to you by &copy;Trakexcel Agency
+
+
 Author: Uzitrake 2024
