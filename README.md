@@ -92,3 +92,5 @@ Need Help?
 If you encounter any issues during installation or have questions about using FrameHarvestPro, please refer to the documentation provided or contact our support team.
 
 Thank you for choosing FrameHarvestPro! Happy frame harvesting!
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fvickkie%2FFrameHarvestPro%2F&label=Views&countColor=%23263759)
