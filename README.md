@@ -1,101 +1,110 @@
-# FrameHarvestPro:
+# FrameHarvestPro
 
 ![FrameHarvestPro Logo](https://i.postimg.cc/bN9KzHkw/vid-main.png)
 
- ### Harvesting Quality Frames from Videos
-Welcome to FrameHarvestPro, your go-to solution for extracting high-quality frames/pictures from any video.
+## Table of Contents
+- [Overview](#overview)
+  - [The Challenge](#the-challenge)
+- [How It Works](#how-it-works)
+- [Key Features](#key-features)
+- [Why FrameHarvestPro?](#why-frameharvestpro)
+- [Get Started](#get-started)
+  - [Installation Instructions](#installation-instructions)
+    - [Prerequisites](#prerequisites)
+    - [Installation Steps](#installation-steps)
+    - [Getting Started](#getting-started)
+- [Need Help?](#need-help)
+
+## Overview
+
+Welcome to FrameHarvestPro, your solution for extracting high-quality frames/pictures from videos.
 
 ### The Challenge
-Have you ever wanted to capture specific moments or all frames from a video, but struggled to find a tool that meets your needs? FrameHarvestPro is designed to address this common challenge.
+
+Have you ever wanted to capture specific moments or all frames from a video? FrameHarvestPro is designed to address this common challenge.
 
 ## How It Works
+
 FrameHarvestPro empowers you to extract frames from videos with precision. Whether you want to capture the entire video or specific segments, our program gives you the flexibility to choose the output quality, format, and extraction parameters.
 
 ## Key Features
-Precision Extraction: Capture frames with precision, ensuring you get exactly what you need.
 
-Quality Settings: Choose the output quality that meets your standards.
-
-Customized Output: Specify the type of frames you want to extract, tailoring the output to your requirements.
+- Precision Extraction: Capture frames with precision.
+- Quality Settings: Choose the output quality that meets your standards.
+- Customized Output: Specify the type of frames you want to extract.
 
 ## Why FrameHarvestPro?
-Ease of Use: A user-friendly interface makes frame extraction simple and efficient.
 
-High Quality: Enjoy crisp and clear frames for your projects or memories.
-
-Flexibility: Extract frames on your terms, whether for creative projects or analysis.
+- Ease of Use: A user-friendly interface makes frame extraction simple and efficient.
+- High Quality: Enjoy crisp and clear frames for your projects or memories.
+- Flexibility: Extract frames on your terms.
 
 ## Get Started
-Download: Visit https://vickkie.github.io/frameharvestpro to download FrameHarvestPro.
 
-Install: Run the installer and follow the setup wizard.
+1. **Download**: Visit [FrameHarvestPro Website](https://vickkie.github.io/frameharvestpro) to download FrameHarvestPro.
+2. **Install**: Run the installer and follow the setup wizard.
+3. **Explore**: Launch FrameHarvestPro and start extracting frames with ease.
 
-Explore: Launch FrameHarvestPro and start extracting frames with ease.
+### Installation Instructions
 
-Your Frame, Your Way
-FrameHarvestPro gives you the power to extract frames exactly the way you want. Download now and experience the difference!
+#### Prerequisites
 
-Brought to you by &copy;Trakexcel Agency
-
-Author: Uzitrake 2024
-
-## FrameHarvestPro Installation Instructions
-Thank you for choosing FrameHarvestPro! Follow the steps below to install the application on your computer.
-
-Prerequisites
 Make sure your system meets the following requirements:
 
-Operating System: Windows
+- Operating System: Windows
 - Disk Space: At least 70 MB of free space
 - RAM: Minimum 2 GB
-  
-### Installation Steps
-Download the Installer:
 
-1. Visit our official website: https://vickkie.github.io/frameharvestpro
-    Navigate to the "Downloads" section.
-    Download the latest version of FrameHarvestPro.
-    Run the Installer:
+#### Installation Steps
 
-2) Locate the downloaded installer file (e.g., FrameHarvestProInstaller.exe).
-Double-click the installer to run it.
-Follow the Setup Wizard:
+1. **Download the Installer**:
+   - Visit our official website: [FrameHarvestPro Website](https://vickkie.github.io/frameharvestpro)
+   - Navigate to the "Downloads" section.
+   - Download the latest version of FrameHarvestPro.
 
-3) The setup wizard will guide you through the installation process.
-Click "Next" to proceed.
-Review License Agreement:
+2. **Run the Installer**:
+   - Locate the downloaded installer file (e.g., `FrameHarvestProInstaller.exe`).
+   - Double-click the installer to run it.
 
-4) Read and accept the license agreement.
-Click "Next" to continue.
-Select Installation Location:
+3. **Follow the Setup Wizard**:
+   - The setup wizard will guide you through the installation process.
+   - Click "Next" to proceed.
 
-5) Choose the destination folder for FrameHarvestPro installation.
-Click "Next" to proceed.
-Create Desktop Shortcut:
+4. **Review License Agreement**:
+   - Read and accept the license agreement.
+   - Click "Next" to continue.
 
-6) Choose whether to create a desktop shortcut.
-Click "Next" to continue.
-Ready to Install:
+5. **Select Installation Location**:
+   - Choose the destination folder for FrameHarvestPro installation.
+   - Click "Next" to proceed.
 
-7) Review the installation settings.
-Click "Install" to start the installation process.
-Installation Complete:
+6. **Create Desktop Shortcut**:
+   - Choose whether to create a desktop shortcut.
+   - Click "Next" to continue.
 
-8) Once the installation is complete, click "Finish."
-Getting Started
-Launch FrameHarvestPro:
+7. **Ready to Install**:
+   - Review the installation settings.
+   - Click "Install" to start the installation process.
 
-9) Double-click the FrameHarvestPro icon on your desktop.
-Or, find it in your Start Menu.
-Explore Features:
+8. **Installation Complete**:
+   - Once the installation is complete, click "Finish."
 
-10) Follow the on-screen instructions to convert videos to frames.
-Refer to the built-in help or visit our website for tutorials.
+### Getting Started
 
+9. **Launch FrameHarvestPro**:
+   - Double-click the FrameHarvestPro icon on your desktop.
+   - Or, find it in your Start Menu.
 
-Need Help?
+10. **Explore Features**:
+    - Follow the on-screen instructions to convert videos to frames.
+    - Refer to the built-in help or visit our website for tutorials.
+
+## Need Help?
+
 If you encounter any issues during installation or have questions about using FrameHarvestPro, please refer to the documentation provided or contact our support team.
 
 Thank you for choosing FrameHarvestPro! Happy frame harvesting!
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fvickkie%2FFrameHarvestPro%2F&label=Views&countColor=%23263759)
+
+![juiceWatch](https://github.com/vickkie/FrameHarvestPro/assets/43224578/19cc2d6c-cbd0-4359-826b-c25a8f62b558)
