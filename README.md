@@ -1,4 +1,8 @@
-# FrameHarvestPro: Harvesting Quality Frames from Videos
+# FrameHarvestPro:
+
+![FrameHarvestPro Logo](https://i.postimg.cc/bN9KzHkw/vid-main.png)
+
+ ### Harvesting Quality Frames from Videos
 Welcome to FrameHarvestPro, your go-to solution for extracting high-quality frames/pictures from any video.
 
 ### The Challenge
