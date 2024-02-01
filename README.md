@@ -11,7 +11,7 @@ Have you ever wanted to capture specific moments or all frames from a video, but
 ## How It Works
 FrameHarvestPro empowers you to extract frames from videos with precision. Whether you want to capture the entire video or specific segments, our program gives you the flexibility to choose the output quality, format, and extraction parameters.
 
-##Key Features
+## Key Features
 Precision Extraction: Capture frames with precision, ensuring you get exactly what you need.
 
 Quality Settings: Choose the output quality that meets your standards.
@@ -25,7 +25,7 @@ High Quality: Enjoy crisp and clear frames for your projects or memories.
 
 Flexibility: Extract frames on your terms, whether for creative projects or analysis.
 
-##Get Started
+## Get Started
 Download: Visit https://vickkie.github.io/frameharvestpro to download FrameHarvestPro.
 
 Install: Run the installer and follow the setup wizard.
@@ -39,19 +39,20 @@ Brought to you by &copy;Trakexcel Agency
 
 Author: Uzitrake 2024
 
-# FrameHarvestPro Installation Instructions
+## FrameHarvestPro Installation Instructions
 Thank you for choosing FrameHarvestPro! Follow the steps below to install the application on your computer.
 
 Prerequisites
 Make sure your system meets the following requirements:
 
 Operating System: Windows
-Disk Space: At least 70 MB of free space
-RAM: Minimum 2 GB
-Installation Steps
+- Disk Space: At least 70 MB of free space
+- RAM: Minimum 2 GB
+  
+### Installation Steps
 Download the Installer:
 
-(i) Visit our official website: https://vickkie.github.io/frameharvestpro
+1. Visit our official website: https://vickkie.github.io/frameharvestpro
     Navigate to the "Downloads" section.
     Download the latest version of FrameHarvestPro.
     Run the Installer:
