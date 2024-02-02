@@ -1,4 +1,4 @@
-# FrameHarvestPro
+# FrameHarvestPro 📷🍂
 
 ![FrameHarvestPro Logo](https://i.postimg.cc/bN9KzHkw/vid-main.png)
 
