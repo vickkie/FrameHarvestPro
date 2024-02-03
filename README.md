@@ -41,7 +41,7 @@ FrameHarvestPro empowers you to extract frames from videos with precision. Wheth
 
 ## Get Started
 
-1. **Download**: Visit [FrameHarvestPro Website](https://vickkie.github.io/frameharvestpro) to download FrameHarvestPro.
+1. **Download**: Visit [FrameHarvestPro Website](https://github.com/vickkie/FrameHarvestPro) to download FrameHarvestPro.
 2. **Install**: Run the installer and follow the setup wizard.
 3. **Explore**: Launch FrameHarvestPro and start extracting frames with ease.
 
@@ -58,7 +58,7 @@ Make sure your system meets the following requirements:
 #### Installation Steps
 
 1. **Download the Installer**:
-   - Visit our official website: [FrameHarvestPro Website](https://vickkie.github.io/frameharvestpro)
+   - Visit our official website: [FrameHarvestPro Website](https://github.com/vickkie/FrameHarvestPro)
    - Navigate to the "Downloads" section.
    - Download the latest version of FrameHarvestPro.
 
