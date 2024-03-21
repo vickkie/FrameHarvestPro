@@ -107,5 +107,5 @@ Thank you for choosing FrameHarvestPro! Happy frame harvesting!
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fvickkie%2FFrameHarvestPro%2F&label=Views&countColor=%23263759)
 
-![Screenshot 2024-02-01 151047](https://github.com/vickkie/FrameHarvestPro/assets/43224578/555a62f3-4f99-4902-87ef-4f8ad3ea90c3)
+# ![Screenshot 2024-02-01 151047](https://github.com/vickkie/FrameHarvestPro/assets/43224578/555a62f3-4f99-4902-87ef-4f8ad3ea90c3)
 
